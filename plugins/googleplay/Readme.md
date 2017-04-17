@@ -24,7 +24,7 @@ For the to compile correctly you must do the following.
  ```
 
 
-##From Java
+## From Java
 ```java
 // This must be added to the new Cocos2dxActivity.java classes in cocos2d-x 3.0 + recently added
 
